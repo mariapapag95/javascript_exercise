@@ -23,6 +23,64 @@
   color: #61dafb;
 }
 
+.body {
+  background: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b17e2d89-9149-4ff2-a5ca-354b68ea1cf9/dadisud-e15b4ea3-83eb-49a0-8e39-b42c4b10bd12.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IxN2UyZDg5LTkxNDktNGZmMi1hNWNhLTM1NGI2OGVhMWNmOVwvZGFkaXN1ZC1lMTViNGVhMy04M2ViLTQ5YTAtOGUzOS1iNDJjNGIxMGJkMTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZO716_-WFaArYa0fZABCJ7K5Jct-dAxJ7hsPsnii2qk') no-repeat center center fixed;
+  background-size: cover;
+  padding-top: 150px;
+  padding-bottom: 10000px;
+  width: 100%;
+  height: 100%;
+}
+
+.links {
+  text-align: center;
+  font-size: 300%;
+  color: white;
+  text-decoration: none;
+}
+
+.fancy {
+  font-family: Luminari, fantasy;
+  color: white;
+}
+
+.button {
+  background-color: rgb(211, 179, 0); 
+  color: white;
+  font-family: Luminari, fantasy;
+  border-radius: 12px;
+  box-shadow: 3px, gray;
+  font-size: 100%; 
+  text-decoration: none;
+  padding: 2%;
+  font-family: Luminari, fantasy;
+}
+
+.home-button {
+  background-color: rgb(211, 179, 0); 
+  color: white;
+  font-family: Luminari, fantasy;
+  border-radius: 12px;
+  box-shadow: 3px, gray;
+  font-size: 40%; 
+  text-decoration: none;
+  padding: 1%;
+  font-family: Luminari, fantasy;
+  position:relative;
+  margin:0 auto;
+  clear:left;
+  height:auto;
+  z-index: 0;
+  text-align:center;
+}
+
+.magic {
+  background-image: url(http://clipart-library.com/img1/1117146.gif); 
+  height: 598px; 
+  width: 700px;
+  margin: auto;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
